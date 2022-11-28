@@ -1,0 +1,346 @@
+{
+    "courses": [
+        {
+            "name": "Intro to Elec & Electronic Eng",
+            "code": "EEET2249",
+            "lessons": [
+                {
+                    "type": "LTL",
+                    "duration": 1.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 5,
+                            "start_time": "13:30",
+                            "weeks": "23/7-27/8, 10/9-15/10",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "12:30",
+                            "weeks": "23/7-27/8, 10/9-15/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 3,
+                            "start_time": "14:30",
+                            "weeks": "21/7-25/8, 8/9-13/10",
+                            "availability": "Select"
+                        }
+                    ]
+                },
+                {
+                    "type": "PRA",
+                    "duration": 2.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 2,
+                            "start_time": "16:30",
+                            "weeks": "3/8, 17/8, 7/9, 21/9, 5/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "14:30",
+                            "weeks": "13/8, 27/8, 17/9, 1/10, 15/10",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "10:30",
+                            "weeks": "6/8, 20/8, 10/9, 24/9, 8/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 3,
+                            "start_time": "08:30",
+                            "weeks": "11/8, 25/8, 15/9, 29/9, 13/10",
+                            "availability": "Allocated"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "16:30",
+                            "weeks": "5/8, 19/8, 9/9, 23/9, 7/10",
+                            "availability": "Select"
+                        }
+                    ]
+                },
+                {
+                    "type": "TUT",
+                    "duration": 1.0,
+                    "location": "Canvas",
+                    "times": [
+                        {
+                            "day_no": 3,
+                            "start_time": "16:30",
+                            "weeks": "3/8, 17/8, 7/9, 21/9, 5/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "14:30",
+                            "weeks": "13/8, 27/8, 17/9, 1/10, 15/10",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "12:30",
+                            "weeks": "13/8, 27/8, 17/9, 1/10, 15/10",
+                            "availability": "Allocated"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "16:30",
+                            "weeks": "6/8, 20/8, 10/9, 24/9, 8/10",
+                            "availability": "Select"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Adv. Manu. & Mechatronics",
+            "code": "MANU2488",
+            "lessons": [
+                {
+                    "type": "LTL",
+                    "duration": 2.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 1,
+                            "start_time": "08:30",
+                            "weeks": "13/9-11/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "13:30",
+                            "weeks": "17/9-15/10",
+                            "availability": "Allocated"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "08:30",
+                            "weeks": "16/9-14/10",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "08:30",
+                            "weeks": "17/9-15/10",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "08:30",
+                            "weeks": "14/9-12/10",
+                            "availability": "Select"
+                        }
+                    ]
+                },
+                {
+                    "type": "PRA",
+                    "duration": 2.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 1,
+                            "start_time": "11:00",
+                            "weeks": "23/8",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "08:30",
+                            "weeks": "24/8",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "10:30",
+                            "weeks": "24/8",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "12:30",
+                            "weeks": "24/8",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "12:30",
+                            "weeks": "9/9",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "08:30",
+                            "weeks": "7/9",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 3,
+                            "start_time": "08:30",
+                            "weeks": "8/9",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 1,
+                            "start_time": "14:30",
+                            "weeks": "6/9",
+                            "availability": "Allocated"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "11:30",
+                            "weeks": "27/8",
+                            "availability": "Select"
+                        }
+                    ]
+                },
+                {
+                    "type": "TUT",
+                    "duration": 1.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 1,
+                            "start_time": "14:30",
+                            "weeks": "19/7-23/8, 6/9-11/10",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "14:30",
+                            "weeks": "22/7-26/8, 9/9-14/10",
+                            "availability": "Allocated"
+                        },
+                        {
+                            "day_no": 3,
+                            "start_time": "08:30",
+                            "weeks": "21/7-25/8, 8/9-13/10",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "16:30",
+                            "weeks": "22/7-26/8, 9/9-14/10",
+                            "availability": "Select"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mechanics and Materials 2",
+            "code": "MIET2115",
+            "lessons": [
+                {
+                    "type": "TUT",
+                    "duration": 2.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 1,
+                            "start_time": "14:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Allocated"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Applied Thermodynamics",
+            "code": "MIET2421",
+            "lessons": [
+                {
+                    "type": "LTL",
+                    "duration": 1.0,
+                    "location": "Canvas",
+                    "times": [
+                        {
+                            "day_no": 1,
+                            "start_time": "09:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Allocated"
+                        }
+                    ]
+                },
+                {
+                    "type": "PRA",
+                    "duration": 1.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 2,
+                            "start_time": "09:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 1,
+                            "start_time": "13:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 1,
+                            "start_time": "12:30",
+                            "weeks": "20/7-24/8, 9/10-12/10",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "14:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Select"
+                        },
+                        {
+                            "day_no": 2,
+                            "start_time": "12:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Select"
+                        }
+                    ]
+                },
+                {
+                    "type": "TUT",
+                    "duration": 2.0,
+                    "location": "Melbourne City",
+                    "times": [
+                        {
+                            "day_no": 4,
+                            "start_time": "12:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Full"
+                        },
+                        {
+                            "day_no": 5,
+                            "start_time": "14:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Clash"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "09:30",
+                            "weeks": "20/7-24/8, 9/10-12/10",
+                            "availability": "Allocated"
+                        },
+                        {
+                            "day_no": 4,
+                            "start_time": "16:30",
+                            "weeks": "20/7-24/8, 7/9-12/10",
+                            "availability": "Select"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+                        
+        

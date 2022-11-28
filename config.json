@@ -1,0 +1,49 @@
+{
+    "days":[
+        {
+            "name":"Mon",
+            "min_start":"",
+            "max_end": null
+        },
+        {
+            "name":"Tue",
+            "min_start":"",
+            "max_end":""
+        },
+        {
+            "name":"Wed",
+            "min_start":"",
+            "max_end":""
+        },
+        {
+            "name":"Thu",
+            "min_start":"",
+            "max_end":"14:30"
+        },
+        {
+            "name":"Fri",
+            "min_start":"",
+            "max_end":"16:00"
+        },
+        {
+            "name":"Sat",
+            "min_start":"",
+            "max_end":""
+        },
+        {
+            "name":"Sun",
+            "min_start":"",
+            "max_end":""
+        }
+    ],
+    "consts":{
+        "allow_lecture_clash": true,
+        "max_without_break": 6.0,
+        "general_min_start":"08:30",
+        "general_max_end":"18:00",
+        "print_time_increment":0.5,
+        "print_division_string":"|",
+        "cell_width":14,
+        "time_width":5
+    }
+}
